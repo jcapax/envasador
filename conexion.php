@@ -1,7 +1,7 @@
 <?php
 	function conexion()
 	{
-		if (!($link = mysqli_connect("192.168.1.194","root","mysqlroot"))) 
+		if (!($link = mysqli_connect("192.168.1.194","root",""))) 
   		 { 
      		echo "Error conectando al servidor."; 
 	      	exit(); 
