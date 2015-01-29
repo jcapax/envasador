@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="autenticacion.php" server="//SIDSWEB/www/envasador/" local="128463506920000000" remote="128463506910000000" />
+<file name="autenticacion.php" server="" local="128463506920000000" remote="239143779041312" />
+<file name="menu.php" server="//SIDSWEB/www/envasador/" local="128952501390000000" remote="128952497520000000" />
+<file name="menu.php" server="" local="128952501390000000" remote="239143779041312" />
+<file name="conexion.php" server="//SIDSWEB/www/envasador/" local="129409574522914729" remote="129409572240000000" />
+<file name="conexion.php" server="" local="129409574522914729" remote="239143779041312" />
+<file name="procesos.php" server="//SIDSWEB/www/envasador/" local="129410400800438441" remote="129410396870000000" />
+<file name="procesos.php" server="" local="129410400800438441" remote="239143779041312" />
+<file name="editar_proceso.php" server="//SIDSWEB/www/envasador/" local="129385559110095990" remote="129385559070000000" />
+<file name="editar_proceso.php" server="" local="129385559110095990" remote="239143779041312" />
+<file name="comercial.php" server="//SIDSWEB/www/envasador/" local="129388190127552357" remote="129388187590000000" />
+<file name="comercial.php" server="" local="129388190127552357" remote="239143779041312" />
+<file name="editar_comercial.php" server="//SIDSWEB/www/envasador/" local="129388190740521107" remote="129388187590000000" />
+<file name="editar_comercial.php" server="" local="129388190740521107" remote="239143779041312" />
+<file name="item_mermas.php" server="//SIDSWEB/www/envasador/" local="129409622132632259" remote="129409619480000000" />
+<file name="item_mermas.php" server="" local="129409622132632259" remote="239143779041312" />
+<file name="mermas.php" server="//SIDSWEB/www/envasador/" local="129409613322698515" remote="129409610890000000" />
+<file name="mermas.php" server="" local="129409613322698515" remote="239143779041312" />
+<file name="validar.php" server="//SIDSWEB/www/envasador/" local="129409735910331286" remote="129409735450000000" />
+<file name="validar.php" server="" local="129409735910331286" remote="239143779041312" />
+<file name="item_proceso.php" server="//SIDSWEB/www/envasador/" local="129413083153165807" remote="129413081220000000" />
+<file name="item_proceso.php" server="" local="129413083153165807" remote="239143779041312" />
+<file name="eliminar_item_proceso.php" server="//SIDSWEB/www/envasador/" local="129413183937375120" remote="129413180010000000" />
+<file name="eliminar_item_proceso.php" server="" local="129413183937375120" remote="239143779041312" />
+<file name="agru.php" server="//SIDSWEB/www/envasador/" local="128760011620000000" remote="128760009970000000" />
+<file name="agru.php" server="" local="128760011620000000" remote="239143779041312" />
+<file name="bonificaciones.php" server="//SIDSWEB/www/envasador/" local="128904123310000000" remote="128904119010000000" />
+<file name="bonificaciones.php" server="" local="128904123310000000" remote="239143779041312" />
+<file name="cambiar_contrasena.php" server="//SIDSWEB/www/envasador/" local="128804978260000000" remote="128804973990000000" />
+<file name="cambiar_contrasena.php" server="" local="128804978260000000" remote="239143779041312" />
+<file name="cerrarsesion.php" server="//SIDSWEB/www/envasador/" local="128463721660000000" remote="128463721650000000" />
+<file name="cerrarsesion.php" server="" local="128463721660000000" remote="239143779041312" />
+<file name="codificar_clientes.php" server="//SIDSWEB/www/envasador/" local="129090924320000000" remote="129090920020000000" />
+<file name="codificar_clientes.php" server="" local="129090924320000000" remote="239143779041312" />
+<file name="confirmar_comercial.php" server="//SIDSWEB/www/envasador/" local="128913674600000000" remote="128913671020000000" />
+<file name="confirmar_comercial.php" server="" local="128913674600000000" remote="239143779041312" />
+<file name="confirmar_merma.php" server="//SIDSWEB/www/envasador/" local="128740228920000000" remote="128740227350000000" />
+<file name="confirmar_merma.php" server="" local="128740228920000000" remote="239143779041312" />
+<file name="confirmar_proceso.php" server="//SIDSWEB/www/envasador/" local="128718323020000000" remote="128718318730000000" />
+<file name="confirmar_proceso.php" server="" local="128718323020000000" remote="239143779041312" />
+<file name="confirmar_recepcion.php" server="//SIDSWEB/www/envasador/" local="128462793940000000" remote="128462789650000000" />
+<file name="confirmar_recepcion.php" server="" local="128462793940000000" remote="239143779041312" />
+<file name="control_venta.php" server="//SIDSWEB/www/envasador/" local="129375919650463649" remote="129375916870000000" />
+<file name="control_venta.php" server="" local="129375919650463649" remote="239143779041312" />
+<file name="Copia de item_mermas.php" server="//SIDSWEB/www/envasador/" local="129398597036693246" remote="129398594300000000" />
+<file name="Copia de item_mermas.php" server="" local="129398597036693246" remote="239143779041312" />
+<file name="Copia de mermas.php" server="//SIDSWEB/www/envasador/" local="129399147824586517" remote="129399144060000000" />
+<file name="Copia de mermas.php" server="" local="129399147824586517" remote="239143779041312" />
+<file name="Copia de msg_mermas.php" server="//SIDSWEB/www/envasador/" local="129398584045775822" remote="129398581420000000" />
+<file name="Copia de msg_mermas.php" server="" local="129398584045775822" remote="239143779041312" />
+<file name="correccion_procesos.php" server="//SIDSWEB/www/envasador/" local="129549533664169570" remote="129549532340000000" />
+<file name="correccion_procesos.php" server="" local="129549533664169570" remote="239143779041312" />
+<file name="distribucion.php" server="//SIDSWEB/www/envasador/" local="129103950950000000" remote="129103946660000000" />
+<file name="distribucion.php" server="" local="129103950950000000" remote="239143779041312" />
+<file name="distribuicion.php" server="//SIDSWEB/www/envasador/" local="128744346230000000" remote="128744341930000000" />
+<file name="distribuicion.php" server="" local="128744346230000000" remote="239143779041312" />
+<file name="editar_comercial_post.php" server="//SIDSWEB/www/envasador/" local="128777078820000000" remote="128777078170000000" />
+<file name="editar_comercial_post.php" server="" local="128777078820000000" remote="239143779041312" />
+<file name="eliminar_item_comercial.php" server="//SIDSWEB/www/envasador/" local="128922515420000000" remote="128922514360000000" />
+<file name="eliminar_item_comercial.php" server="" local="128922515420000000" remote="239143779041312" />
+<file name="eliminar_item_merma.php" server="//SIDSWEB/www/envasador/" local="128740201380000000" remote="128740197290000000" />
+<file name="eliminar_item_merma.php" server="" local="128740201380000000" remote="239143779041312" />
+<file name="estadistica_comercializacion.php" server="//SIDSWEB/www/envasador/" local="128788621580000000" remote="128788618750000000" />
+<file name="estadistica_comercializacion.php" server="" local="128788621580000000" remote="239143779041312" />
+<file name="estadistica_despacho.php" server="//SIDSWEB/www/envasador/" local="128887124060000000" remote="128887123820000000" />
+<file name="estadistica_despacho.php" server="" local="128887124060000000" remote="239143779041312" />
+<file name="estadistica_produccion.php" server="//SIDSWEB/www/envasador/" local="128884270800000000" remote="128884267670000000" />
+<file name="estadistica_produccion.php" server="" local="128884270800000000" remote="239143779041312" />
+<file name="estadistica_recepcion.php" server="//SIDSWEB/www/envasador/" local="128760704600000000" remote="128760701460000000" />
+<file name="estadistica_recepcion.php" server="" local="128760704600000000" remote="239143779041312" />
+<file name="estadistica_rec_des.php" server="//SIDSWEB/www/envasador/" local="128760759500000000" remote="128760757300000000" />
+<file name="estadistica_rec_des.php" server="" local="128760759500000000" remote="239143779041312" />
+<file name="graf.php" server="//SIDSWEB/www/envasador/" local="128759874360000000" remote="128759872530000000" />
+<file name="graf.php" server="" local="128759874360000000" remote="239143779041312" />
+<file name="impre_comer.php" server="//SIDSWEB/www/envasador/" local="128956891150000000" remote="128956886980000000" />
+<file name="impre_comer.php" server="" local="128956891150000000" remote="239143779041312" />
+<file name="impre_item_mermas.php" server="//SIDSWEB/www/envasador/" local="128804993700000000" remote="128804991170000000" />
+<file name="impre_item_mermas.php" server="" local="128804993700000000" remote="239143779041312" />
+<file name="impre_item_proceso.php" server="//SIDSWEB/www/envasador/" local="128804993700000000" remote="128804991170000000" />
+<file name="impre_item_proceso.php" server="" local="128804993700000000" remote="239143779041312" />
+<file name="index.php" server="//SIDSWEB/www/envasador/" local="128952106820000000" remote="128952106680000000" />
+<file name="index.php" server="" local="128952106820000000" remote="239143779041312" />
+<file name="ins_item_proceso.php" server="//SIDSWEB/www/envasador/" local="128717734610000000" remote="128717730310000000" />
+<file name="ins_item_proceso.php" server="" local="128717734610000000" remote="239143779041312" />
+<file name="item_comer.php" server="//SIDSWEB/www/envasador/" local="129418404830756858" remote="129418402690000000" />
+<file name="item_comer.php" server="" local="129418404830756858" remote="239143779041312" />
+<file name="matriz_grafico.php" server="//SIDSWEB/www/envasador/" local="128887122260000000" remote="128887119530000000" />
+<file name="matriz_grafico.php" server="" local="128887122260000000" remote="239143779041312" />
+<file name="msg_comercial.php" server="//SIDSWEB/www/envasador/" local="129076875480000000" remote="129076871190000000" />
+<file name="msg_comercial.php" server="" local="129076875480000000" remote="239143779041312" />
+<file name="msg_mermas.php" server="//SIDSWEB/www/envasador/" local="129199007170000000" remote="129199002880000000" />
+<file name="msg_mermas.php" server="" local="129199007170000000" remote="239143779041312" />
+<file name="msg_procesos.php" server="//SIDSWEB/www/envasador/" local="128740842420000000" remote="128740841530000000" />
+<file name="msg_procesos.php" server="" local="128740842420000000" remote="239143779041312" />
+<file name="nota_comercial.php" server="//SIDSWEB/www/envasador/" local="128763351460000000" remote="128763347160000000" />
+<file name="nota_comercial.php" server="" local="128763351460000000" remote="239143779041312" />
+<file name="nuevos_usuarios.php" server="//SIDSWEB/www/envasador/" local="128739339160000000" remote="128739338300000000" />
+<file name="nuevos_usuarios.php" server="" local="128739339160000000" remote="239143779041312" />
+<file name="recep_envases.php" server="//SIDSWEB/www/envasador/" local="128789247900000000" remote="128789245820000000" />
+<file name="recep_envases.php" server="" local="128789247900000000" remote="239143779041312" />
+<file name="reportes.php" server="//SIDSWEB/www/envasador/" local="128925920740000000" remote="128925920260000000" />
+<file name="reportes.php" server="" local="128925920740000000" remote="239143779041312" />
+<file name="reporte_comercializacion.php" server="//SIDSWEB/www/envasador/" local="129418372634512251" remote="129418372620000000" />
+<file name="reporte_comercializacion.php" server="" local="129418372634512251" remote="239143779041312" />
+<file name="rep_despachos.php" server="//SIDSWEB/www/envasador/" local="128783107520000000" remote="128783104010000000" />
+<file name="rep_despachos.php" server="" local="128783107520000000" remote="239143779041312" />
+<file name="rep_mermas.php" server="//SIDSWEB/www/envasador/" local="128783107420000000" remote="128783104010000000" />
+<file name="rep_mermas.php" server="" local="128783107420000000" remote="239143779041312" />
+<file name="rep_productos.php" server="//SIDSWEB/www/envasador/" local="128783107280000000" remote="128783104010000000" />
+<file name="rep_productos.php" server="" local="128783107280000000" remote="239143779041312" />
+<file name="ROLES USUARIOS.TXT" server="//SIDSWEB/www/envasador/" local="129398543990395016" remote="129398542760000000" />
+<file name="ROLES USUARIOS.TXT" server="" local="129398543990395016" remote="239143779041312" />
+<file name="facturas distribuidores abril 2011.txt" server="//SIDSWEB/www/envasador/" local="129495086047562059" remote="129495085040000000" />
+<file name="autenticacion.php" server="//sidsweb/www/envasador/" local="128463506920000000" remote="128463506920000000" />
+<file name="menu.php" server="//sidsweb/www/envasador/" local="128952501390000000" remote="128952501390000000" />
+<file name="conexion.php" server="//sidsweb/www/envasador/" local="129615199038401013" remote="129615199030000000" />
+<file name="msg_procesos.php" server="//sidsweb/www/envasador/" local="129648140820000000" remote="129648140820000000" />
+<file name="editar_comercial.php" server="//sidsweb/www/envasador/" local="129652318176782452" remote="129652318170000000" />
+<file name="editar_comercial_post.php" server="//sidsweb/www/envasador/" local="129652320267947437" remote="129652320260000000" />
+<file name="comercial.php" server="//sidsweb/www/envasador/" local="129652316276210737" remote="129652316270000000" />
+<file name="msg_comercial.php" server="//sidsweb/www/envasador/" local="129652306172072287" remote="129652306170000000" />
+<file name="procesos.php" server="//sidsweb/www/envasador/" local="129642825387036185" remote="129642825380000000" />
+<file name="item_comer.php" server="//sidsweb/www/envasador/" local="129652302966164197" remote="129652302960000000" />
+<file name="item_comer.php" server="//192.168.1.195/c$/AppServ/www/envasador/" local="129913321768973835" remote="129913321760000000" />
+</dwsync>

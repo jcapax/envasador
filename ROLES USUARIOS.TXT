@@ -1,0 +1,10 @@
+1	administrador
+2	recepcion de envases
+3	produccion en proceso
+4	produccion envasado
+5	despacho
+6	reporte envases
+7	registro comercial
+8	reporte comercial
+9	mesmas Embotellado
+10	Descuentos Recepcion
